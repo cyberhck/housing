@@ -33,4 +33,4 @@ Should create a database, now open ```config.php``` file and change the ```$DB_N
 #### Just kidding! You're all done! Open Browser and happy hacking.
 
 
-For Synced Maps, please refer to other repository [github.com/cyberhck/syncMap](github.com/cyberhck/syncMap)
+For Synced Maps, please refer to other repository [https://github.com/cyberhck/syncMap](https://github.com/cyberhck/syncMap)
